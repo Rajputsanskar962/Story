@@ -1,0 +1,3 @@
+kdsjsajajfidjfidhfduisfsduibfsduifudn uhdsuFill in the code to check if the text passed includes a possible U.S. zip code, formatted as follows: exactly 5 digits, and sometimes, but not always, followed by a dash with 4 more digits. The zip code needs to be preceded by at least one space, and cannot be at the start of the text.
+
+sdfusdhfuohsdio fsdhfiosdhfisdhfisdhfihsdfisdfisdfisd sdfusdifsdiofsdihfsdifsdiofusdiofhsdoifsdufiodsu sdfiouioudsiofudsiofudsiufsdioufidsufidosufdiosifuifsdiuidsuiufiudisioiousfi
